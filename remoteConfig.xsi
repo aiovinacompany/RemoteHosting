@@ -1,0 +1,5 @@
+{
+  "update": true,
+  "resources": "https://yourdomain.com/resources.zip",
+  "version": "1.0.0"
+}
